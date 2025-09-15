@@ -1,4 +1,4 @@
-# Chatbot UI
+# Jarvis UI
 
 The open-source AI chat app for everyone.
 
